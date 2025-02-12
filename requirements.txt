@@ -1,0 +1,5 @@
+composio_langchain==0.7.2
+langchain==0.3.18
+langchain_openai==0.3.5
+mira_sdk==0.1.16
+python-dotenv==1.0.1
